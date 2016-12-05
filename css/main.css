@@ -1,0 +1,160 @@
+/*** sectioning elements ***/
+
+body {
+
+}
+
+header {
+font-family: 'Chelsea Market', cursive;
+background-color: #B15F38;
+color: #FFDBB8;
+font-size: 30px;
+}
+
+main {
+background-color: #BF8B59;
+}
+
+footer {
+font-family: 'Chelsea Market', cursive;
+background-color: #B15F38;
+color: #FFDBB8;
+font-size: 30px;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+.label {
+  color: #FFDBB8;
+  margin-bottom: auto;
+  font-family: 'Chelsea Market', cursive;
+}
+
+.description {
+  font-size: 9px;
+}
+
+li {
+  font-size: 20px; 
+  font-family: 'Neucha', cursive;
+  color: #5A2C00;
+}
+
+.circle {
+  background-color: #FFDBB8;
+}
+
+.margin {
+  background-color: #BF8B59;
+}
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+/***Javascript Carasoul**/
+
+
+body {
+
+}
+
+h1 {
+
+.item {
+
+}
