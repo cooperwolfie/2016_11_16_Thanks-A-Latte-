@@ -45,7 +45,7 @@ aside {
 }
 
 li {
-  font-size: 20px; 
+  font-size: 20px;
   font-family: 'Neucha', cursive;
   color: #5A2C00;
 }
@@ -62,6 +62,17 @@ li {
 
 h1 {
 
+}
+
+.starter {
+  font-size: 30px;
+  color: #5A2C00;
+  font-family: 'Chelsea Market', cursive;
+}
+
+.contact {
+  font-size: 20px;
+  color: #5a2c00;
 }
 
 h2 {
